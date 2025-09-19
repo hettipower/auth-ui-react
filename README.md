@@ -75,18 +75,6 @@ window.addEventListener('auth:login', (e: any) => {
 
 * Prefer httpOnly cookies on the backend for JWTs. The UI does not persist tokens.
 
-## Build & Publish
-
-```bash
-npm run build
-# Publish to npm (with your org scope)
-npm publish --access public
-```
-
-```
-
----
-
 ## ✅ Notes
 
 - Forms use **React Hook Form + Zod** with instant validation.
