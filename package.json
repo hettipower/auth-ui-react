@@ -1,6 +1,6 @@
 {
     "name": "@hettipower/auth-ui",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Reusable animated auth UI (Login, Register, Forgot, Reset) for React + NestJS backends",
     "type": "module",
     "main": "dist/index.cjs",
