@@ -1,0 +1,28 @@
+# Node & build
+node_modules
+dist
+build
+coverage
+.vscode
+.idea
+
+# Env & configs
+.env
+.env.*
+*.log
+
+# Source (only publish compiled dist/)
+src
+public
+*.config.js
+*.config.ts
+tsconfig.json
+tsconfig.build.json
+tailwind.config.ts
+postcss.config.js
+vite.config.ts
+
+# Misc
+.DS_Store
+*.zip
+*.tar.gz

@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Glass card */
+.glass {
+    @apply bg-white/80 dark:bg-zinc-900/70 backdrop-blur-md shadow-glass border border-white/30 dark:border-zinc-800/50;
+}
